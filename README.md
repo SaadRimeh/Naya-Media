@@ -1,13 +1,12 @@
 # Social Media App
 
-A modern social media application built with React Native and Expo, featuring a clean and intuitive user interface with support for dark/light themes.
+A modern social media Ui application built with React Native and Expo, featuring a clean and intuitive user interface with support for dark/light themes.
 
 ## Features
 
 - 📱 Modern tab-based navigation
 - 🎨 Dynamic theme support (Light/Dark mode)
 - 👤 User profiles
-- 🔔 Real-time notifications
 - 🎥 Video feed with thumbnails and engagement metrics
 - 💬 Social interactions (likes, comments, follows)
 - 🎯 Custom UI components
@@ -27,7 +26,7 @@ A modern social media application built with React Native and Expo, featuring a 
 
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
+git clone [(https://github.com/SaadRimeh/Naya-Media.git)]
 cd [project-directory]
 ```
 
